@@ -1,0 +1,8 @@
+{
+    "entity.generic.drink": {
+        "sounds":   [
+            "minecraft:random/drink"
+        ],
+        "subtitle" : "none"
+    }
+}

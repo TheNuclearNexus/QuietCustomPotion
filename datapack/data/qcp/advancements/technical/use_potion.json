@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:potion"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "qcp:entity/player/use_potion"
+  }
+}

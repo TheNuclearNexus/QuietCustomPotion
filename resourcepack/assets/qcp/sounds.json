@@ -1,0 +1,8 @@
+{
+    "entity.generic.drink": {
+        "sounds":   [
+            "qcp:drink"
+        ],
+        "subtitle" : "subtitles.entity.generic.drink"
+    }
+}
